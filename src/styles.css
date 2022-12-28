@@ -1,0 +1,36 @@
+.App{
+    text-align: left;
+  
+  }
+  h2{
+    text-align: center;
+  }
+  #navbar{
+    padding: 2rem;
+  }
+
+  .navbar-brand:hover {
+    border-bottom:2px solid white ;
+  }
+
+  .form-group{
+    padding-top: 1rem;
+  }
+
+  .form-label{
+    font-size: 1rem;
+    color: #777;
+  }
+
+  #btn:hover{
+    color: black;
+    border: 1px solid black;
+    background: white;
+
+  }
+
+  #btn{
+    color: white;
+    background: black;
+
+  }
